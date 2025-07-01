@@ -1,7 +1,7 @@
 volatile char key;
 const int sw1 = 2;
 const int sw2 = 5;
-volatile bool measuresw = true;
+volatile bool measuresw = false;
 volatile bool measureserial = false;
 volatile unsigned int time1;
 volatile unsigned int time2;
